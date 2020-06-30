@@ -1,7 +1,7 @@
 package com.itheima.common.utils;
 import java.util.List;
 
-//李媛媛
+//李媛媛（最终修改版）
 public class Page<T> {   
 	private int total;    // 总条数
 	private int page;     // 当前页
